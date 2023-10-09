@@ -20,3 +20,11 @@ Tested docker configurations.
 - password is empty
 
 More info about [XAMPP Docker image](https://hub.docker.com/r/tomsik68/xampp/)
+
+## WordPress Configuration
+
+- `mkdir my-wp-dir`
+- `cd my-wp-dir`
+- create docker-compose.yml
+- `docker-compose up -d`
+- Go to [http://localhost:8080/wp-admin](http://localhost:8080/wp-admin)
