@@ -25,6 +25,6 @@ More info about [XAMPP Docker image](https://hub.docker.com/r/tomsik68/xampp/)
 
 - `mkdir my-wp-dir`
 - `cd my-wp-dir`
-- create docker-compose.yml
+- create [docker-compose.yml](https://github.com/wptom/docker-configs/blob/main/docker-compose.yml)
 - `docker-compose up -d`
 - Go to [http://localhost:8080/wp-admin](http://localhost:8080/wp-admin)
